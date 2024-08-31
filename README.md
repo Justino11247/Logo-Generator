@@ -34,7 +34,7 @@ To install Employee Tracker:
     </ul>
 </ol>
 
-[Link to Walk Through Video]
+[Link to Walk Through Video](https://drive.google.com/file/d/1hTdG6cyLFjXoeGVHgFmWjUn8Ar_pT9nZ/view)
 
 ![Screenshot of Logo-Generator](./images/npm%20start.png)
 <br/>
